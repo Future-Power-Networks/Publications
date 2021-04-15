@@ -1,7 +1,7 @@
 %% Detuned system
 clear figure 1
 
-sel = 2;
+sel = 2;    % 1 for De-tuned case, 2 for tuned better case, 3 for tuned worse case.
 if sel == 1
     load('StepR1.mat','out');
 elseif sel == 2
