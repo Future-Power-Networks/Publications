@@ -1,6 +1,6 @@
 # Case-study for the Grey-Box Approach 
 
-<div style="text-align: justify">This folder provides data for the 68-bus case study in our paper 'Participation Analysis in Impedance Models: TheGrey-Box Approach for Power System Stability'.
+<div style="text-align: justify">This folder provides data for the 68-bus case study in our paper 'Participation Analysis in Impedance Models: The Grey-Box Approach for Power System Stability'.
 
 * Numerical results for Grey-Box Layer-1, Layer-2, Layer-3 are stored in the folder 'Results', so as the time-domain simulation results. You have to use matlab to read those files.
 * The configuration files for the network, apparatus and grey-box analysis are located in the folder 'SystemConfigurations'.
