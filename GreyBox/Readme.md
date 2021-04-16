@@ -8,8 +8,6 @@
 
 </div>
 
-If you have further questions, please contact me.  
+If you have further questions, please contact the author.  
 yue.zhu18@imperial.ac.uk  
-<https://www.yuezhu.site>
-
 
