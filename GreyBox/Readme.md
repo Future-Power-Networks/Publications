@@ -1,6 +1,6 @@
 # Supplementary Files for Grey-Box Approach 
 
-<div style="text-align: justify">This folder provides codes and data for our paper 'Participation Analysis in Impedance Models: The Grey-Box Approach for Power System Stability'.
+<div style="text-align: justify">Here we list the access to the codes and data for our paper **Participation Analysis in Impedance Models: The Grey-Box Approach for Power System Stability**.
 
 * Codes can be found [here](https://github.com/Future-Power-Networks/Simplex-Power-Systems/tree/GreyBox_Paper). The codes are specially customized for the case-study in the paper, so do NOT create your own case upon these codes as they may generate unwanted results. If you hope to develop your own project based on our toolbox, please fork from the [master branch](https://github.com/Future-Power-Networks/Simplex-Power-Systems).
 * The configuration files for the network and apparatus used in the 68-bus case studies can be found [here](https://github.com/Future-Power-Networks/Publications/tree/main/GreyBox/SupplementaryFiles/SystemConfigurations).
