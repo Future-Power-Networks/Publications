@@ -7,3 +7,5 @@ This repository contains the sources codes, data and supplementary files for our
 * Yue Zhu, Yunjie Gu, Yitong Li, Timothy C. Green, [Participation Analysis in Impedance Models: The Grey-Box Approach for Power System Stability](https://github.com/Future-Power-Networks/Publications/tree/main/GreyBox), in IEEE Transactions on Power Systems.
 
 * Yitong Li, Yunjie Gu, Timothy C. Green, [Mapping of Dynamics between Mechanical and Electrical Ports in SG-IBR Composite Grids](https://github.com/Future-Power-Networks/Publications/tree/main/PortMapping), in IEEE Transactions on Power Systems.
+
+* Yitong Li, Yunjie Gu, Timothy C. Green, [Rethinking Grid-Forming and Grid-Following Inverters: A Duality Theory](https://github.com/Future-Power-Networks/Simplus-Grid-Tool/tree/InverterDuality), in IEEE Transactions on Power Systems.
