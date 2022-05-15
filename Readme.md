@@ -12,6 +12,6 @@ This repository contains the sources codes, data and supplementary files for our
 
 * Yue Zhu, Yunjie Gu, Yitong Li, Timothy C. Green, [Impedance-based Root-cause Analysis: Comparative Study of Impedance Models and Calculation of Eigenvalue Sensitivity](https://github.com/Future-Power-Networks/Simplus-Grid-Tool/tree/Sensitivity), submitted to IEEE Transactions on Power Systems.
 
-* Yunjie Gu, Yitong Li, Timothy C. Green, [The intrinsic communication in power systems:\\ a new perspective to understand stability](https://github.com/Future-Power-Networks/Publications/tree/main/PowerCommunication).
+* Yunjie Gu, Yitong Li, Timothy C. Green, [The intrinsic communication in power systems: a new perspective to understand stability](https://github.com/Future-Power-Networks/Publications/tree/main/PowerCommunication).
 
 * Yunjie Gu, Yitong Li, [Do We Really Need Inertia?](https://github.com/Future-Power-Networks/Simplus-Grid-Tool/tree/InertiaFree).
