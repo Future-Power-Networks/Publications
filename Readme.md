@@ -4,7 +4,7 @@ This repository contains the sources codes, data and supplementary files for our
 
 * Yitong Li, Yunjie Gu, Timothy C. Green, [Descriptor State Space Modeling of Power Systems](https://github.com/Future-Power-Networks/Simplus-Grid-Tool/tree/2022AUG18_DescriptorStateSpace).
 
-* Yunjie Gu, Yitong Li, Timothy C. Green, [The intrinsic communication in power systems: a new perspective to understand stability](https://github.com/Future-Power-Networks/Publications/tree/main/PowerCommunication).
+* Yitong Li, Yunjie Gu, Timothy C. Green, [The Intrinsic Communication in Power Systems: A New Perspective to Understand Stability](https://github.com/Future-Power-Networks/Power-Communication-Isomorphism).
 
 * Yue Zhu, Yunjie Gu, Yitong Li, Timothy C. Green, [Impedance-based Root-cause Analysis: Comparative Study of Impedance Models and Calculation of Eigenvalue Sensitivity](https://github.com/Future-Power-Networks/Simplus-Grid-Tool/tree/Sensitivity), IEEE Transactions on Power Systems, Early Access.
 
