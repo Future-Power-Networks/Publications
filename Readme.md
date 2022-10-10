@@ -8,7 +8,7 @@ This repository contains the sources codes, data and supplementary files for our
 
 * Yue Zhu, Yunjie Gu, Yitong Li, Timothy C. Green, [Impedance-based Root-cause Analysis: Comparative Study of Impedance Models and Calculation of Eigenvalue Sensitivity](https://github.com/Future-Power-Networks/Simplus-Grid-Tool/tree/Sensitivity), IEEE Transactions on Power Systems, Early Access.
 
-* Yitong Li, Yunjie Gu, Timothy C. Green, [Revisiting Grid-Forming and Grid-Following Inverters: A Duality Theory](https://github.com/Future-Power-Networks/Simplus-Grid-Tool/tree/InverterDuality), in IEEE Transactions on Power Systems, Early Access.
+* Yitong Li, Yunjie Gu, Timothy C. Green, [Revisiting Grid-Forming and Grid-Following Inverters: A Duality Theory](https://github.com/Future-Power-Networks/Simplus-Grid-Tool/tree/2021_InverterDuality), in IEEE Transactions on Power Systems, Early Access.
 
 * Yitong Li, Yunjie Gu, Timothy C. Green, [Mapping of Dynamics between Mechanical and Electrical Ports in SG-IBR Composite Grids](https://github.com/Future-Power-Networks/Publications/tree/main/PortMapping), in IEEE Transactions on Power Systems, 2022.
 
