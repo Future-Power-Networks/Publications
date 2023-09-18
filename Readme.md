@@ -2,6 +2,8 @@
 
 This repository contains the sources codes, data and supplementary files for our publications, listed in reverse-chronological order:
 
+* Yue Zhu, Timothy C. Green, Xiaoyao Zhou, Yitong Li, Dechao Kong, Yunjie Gu[Impedance Margin Ratio: a New Metric for Small-Signal System Strength](https://github.com/Future-Power-Networks/Simplus-Grid-Tool/tree/2023Mar14_SmallSignalStrength/system_cases).
+
 * Yitong Li, Timothy C. Green, Yunjie Gu, [Descriptor State Space Modeling of Power Systems](https://github.com/Future-Power-Networks/Simplus-Grid-Tool/tree/2022AUG18_DescriptorStateSpace).
 
 * Yitong Li, Timothy C. Green, Yunjie Gu, [The Intrinsic Communication in Power Systems: A New Perspective to Understand Synchronization Stability](https://github.com/Future-Power-Networks/Simplus-Grid-Tool/tree/2021APR20_PowerCommunication), IEEE Transactions on Circuits and Systems, Early Access.
