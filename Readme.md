@@ -2,7 +2,7 @@
 
 This repository contains the sources codes, data and supplementary files for our publications, listed in reverse-chronological order:
 
-* Yifan Zhang, Yunjie Gu, Sijia Geng, Yue Zhu, Hsiao-Dong Chiang, Timothy C. Green, [Consideration of Control-Loop Interaction in Transient Stability of Grid-Following Inverters using Bandwidth Separation Method](https://github.com/Future-Power-Networks/Publications/tree/main/LargeSignal).
+* Yifan Zhang, Yunjie Gu, Sijia Geng, Yue Zhu, Hsiao-Dong Chiang, Timothy C. Green, [Consideration of Control-Loop Interaction in Transient Stability of Grid-Following Inverters using Bandwidth Separation Method](https://github.com/Future-Power-Networks/Publications/tree/main/BandwidthSeperation).
 
 * Yue Zhu, Yunjie Gu, Jessica S. Döhler, Xiaoyao Zhou, Lingling Fan, Timothy C. Green, [Hybrid Data/Model-Driven Whole-System Admittance Identification via Single-Point Injections](https://github.com/Future-Power-Networks/Publications/tree/main/HybridYID), submitted to IEEE Transications on Industrial Electronics, 2025
 
