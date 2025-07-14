@@ -10,9 +10,9 @@ This repository contains the sources codes, data and supplementary files for our
 
 * Yue Zhu, Timothy C. Green, Xiaoyao Zhou, Yitong Li, Dechao Kong, Yunjie Gu, [Impedance Margin Ratio: a New Metric for Small-Signal System Strength](https://github.com/Future-Power-Networks/Simplus-Grid-Tool/tree/2023Mar14_SmallSignalStrength), IEEE Transactions on Power Systems, 2024.
 
-* Yitong Li, Timothy C. Green, Yunjie Gu, [Descriptor State Space Modeling of Power Systems](https://github.com/Future-Power-Networks/Simplus-Grid-Tool/tree/2022AUG18_DescriptorStateSpace).
+* Yitong Li, Timothy C. Green, Yunjie Gu, [Descriptor State Space Modeling of Power Systems](https://github.com/Future-Power-Networks/Simplus-Grid-Tool/tree/2022AUG18_DescriptorStateSpace), IEEE Transactions on Power Systems, 2024.
 
-* Yitong Li, Timothy C. Green, Yunjie Gu, [The Intrinsic Communication in Power Systems: A New Perspective to Understand Synchronization Stability](https://github.com/Future-Power-Networks/Simplus-Grid-Tool/tree/2021APR20_PowerCommunication), IEEE Transactions on Circuits and Systems, Early Access.
+* Yitong Li, Timothy C. Green, Yunjie Gu, [The Intrinsic Communication in Power Systems: A New Perspective to Understand Synchronization Stability](https://github.com/Future-Power-Networks/Simplus-Grid-Tool/tree/2021APR20_PowerCommunication), IEEE Transactions on Circuits and Systems, 2023.
 
 * Yue Zhu, Yunjie Gu, Yitong Li, Timothy C. Green, [Impedance-based Root-cause Analysis: Comparative Study of Impedance Models and Calculation of Eigenvalue Sensitivity](https://github.com/Future-Power-Networks/Simplus-Grid-Tool/tree/Sensitivity), IEEE Transactions on Power Systems, Early Access.
 
